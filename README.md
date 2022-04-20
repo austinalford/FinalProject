@@ -2,11 +2,11 @@
 
 Final Project
 
-**Project shows the use of web AR for studying the eye **
+**Project shows the use of web AR for studying a cell **
 
 
 ### **Description**
-This project was created as a part of the course "Introduction to AR/VR Application Development". The project demonstrates use of web AR to study the eye. It consists of the following:
+This project was created as a part of the course "Introduction to AR/VR Application Development". The project demonstrates use of web AR to study a cell. It consists of the following:
 - index.html (main project file) 
 - readme.md (markdown file)
 
